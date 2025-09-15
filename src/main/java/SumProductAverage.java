@@ -3,7 +3,7 @@
  *
  * 1. Prompts the user to enter a positive integer n.
  *
- * 2. Then, n times, reads in three numbers 
+ * 2. Then, n times, reads in three numbers
  *    (they may be integers or real numbers).
  *
  * 3. For each set of three numbers, computes their sum, product, and average.
@@ -17,6 +17,6 @@ import java.util.Scanner;
 
 public class SumProductAverage {
     public static void main(String[] args) {
-        // TODO
+        System.out.println("Hello World!");
     }
 }
